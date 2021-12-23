@@ -1,0 +1,5 @@
+Admin : admin@gmail.com
+ mdp  : Admin16072002*
+
+Utilisateur : geoffrey.chapit@gmail.com
+ mdp        : Azertyuiop16*
